@@ -23,6 +23,6 @@ module.exports = {
         confirmCommit: '确认使用以上信息提交？(y/n/e/h)'
     },
     allowCustomScopes: true,
-    skipQuestions: ['body'],
+    skipQuestions: ['footer'],
     subjectLimit: 72
 };

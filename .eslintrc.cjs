@@ -44,4 +44,4 @@ module.exports = {
         'no-return-assign': 'off',
         'vue/no-setup-props-destructure': 'off'
     }
-};
+}
